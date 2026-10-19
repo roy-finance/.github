@@ -4,45 +4,55 @@
 
 <h1 align="center">Roy</h1>
 
-<p align="center"><em>La finance, enfin à votre service.</em></p>
+<p align="center"><em>L'analyste de ceux qui rachètent des entreprises.</em></p>
 
 ---
 
-Les professionnels paient des terminaux à des dizaines de milliers d'euros par an pour des écrans conçus il y a trente ans. Les particuliers jonglent entre plusieurs banques, plusieurs applications et un tableur pour savoir ce qu'ils possèdent vraiment. Et personne n'a sous la main un analyste capable de lire un rapport annuel, d'aller chercher les chiffres, de les croiser et de répondre clairement.
+Racheter une entreprise, aujourd'hui, c'est un travail de bénédictin.
 
-Roy réunit ce qui ne l'a jamais été : les données de marché, la gestion de patrimoine et une intelligence artificielle qui travaille vraiment.
+Un repreneur passe des mois seul devant son ordinateur. Il épluche des annonces de cession, des extraits du registre et des comptes annuels en PDF avant même de savoir si une cible mérite un rendez-vous. Un fonds lit des dizaines de mémorandums pour chaque opération conclue, et reconstruit dossier après dossier la même analyse de secteur et la même note d'investissement.
 
-## Ce que fait Roy
+Entre les annuaires d'entreprises et les bases de données à des dizaines de milliers d'euros par an, personne ne fait le vrai travail : lire les comptes, retraiter les chiffres, situer la cible dans son secteur, proposer une fourchette de valorisation et écrire un mémo qui tient la route.
 
-**Un terminal de marché.** Cotations, historiques, fiches sociétés, screener, comparaisons, actualités. L'essentiel d'un terminal professionnel, dans une interface qui ne demande pas de formation.
+C'est ce que fait Roy.
 
-**Un gestionnaire de patrimoine.** Portefeuilles, immobilier, allocation, risque. Une seule vue de tout ce que vous possédez, et de son évolution dans le temps.
+## De la cible au comité
 
-**Une équipe d'agents IA.** Vous posez une question, Roy planifie, va chercher l'information, vérifie, puis répond. Chaque étape se déroule sous vos yeux, et chaque chiffre renvoie à sa source.
+| Étape | Ce que fait Roy |
+|---|---|
+| **Trouver** | Repère les entreprises qui correspondent à votre projet : secteur, région, taille, rentabilité, signaux de transmission. |
+| **Comprendre** | Lit les comptes déposés, reconstitue l'historique, retraite les chiffres et signale ce qui manque. |
+| **Comparer** | Situe la cible face aux entreprises de son secteur. |
+| **Valoriser** | Propose une fourchette de valorisation, avec ses hypothèses écrites noir sur blanc. |
+| **Préparer** | Lit les documents transmis par le cédant, en sort les points d'attention et les questions de due diligence. |
+| **Décider** | Rédige le dossier cible et le mémo, chaque chiffre relié à sa source. |
 
 ## Pour qui
 
-| Vous êtes | Roy vous aide à |
+| Vous êtes | Roy vous donne |
 |---|---|
-| **Repreneur d'entreprise** | Trouver des cibles, lire leurs comptes, les situer dans leur secteur et préparer votre analyse |
-| **Fonds d'investissement** | Sourcer, analyser et documenter vos opérations, du premier screening à la note d'investissement |
-| **Particulier** | Suivre vos placements, comprendre votre patrimoine et son évolution, que vous débutiez ou que vous investissiez depuis longtemps |
+| **Repreneur** | Un analyste à vos côtés pendant toute votre recherche |
+| **Searcher, holding d'acquisition** | Des dizaines de cibles analysées et des mémos prêts pour vos investisseurs |
+| **Fonds small et lower mid cap** | Un outil d'équipe pour sourcer, analyser et documenter vos opérations |
+| **Family office** | Les mêmes analyses pour vos investissements directs dans des PME |
 
-## Comment Roy répond
+## Comment Roy travaille
 
 La plupart des assistants répondent du tac au tac. Roy prend le temps de faire le travail.
 
-1. **Il planifie.** La question est découpée en étapes.
-2. **Il enquête.** Chaque étape est confiée à un agent équipé d'outils réels : données de marché, données d'entreprises, recherche, lecture de documents.
+1. **Il planifie.** La demande est découpée en étapes.
+2. **Il enquête.** Chaque étape est confiée à un agent équipé d'outils réels : registres, comptes déposés, annonces légales, données sectorielles, documents.
 3. **Il vérifie.** Un agent de contrôle relit chaque résultat, le valide ou fait recommencer.
-4. **Il synthétise.** La réponse finale cite ses sources, pour que chaque chiffre puisse être vérifié.
+4. **Il synthétise.** Le dossier final cite ses sources, pour que chaque chiffre puisse être vérifié.
+
+Roy travaille aux côtés de l'acheteur, et seulement de lui. Il ne touche aucune commission sur les opérations.
 
 ## Où nous en sommes
 
-Roy est en construction. Le web ouvrira en premier, l'application mobile iOS et Android suivra.
+Roy est en construction. Le web ouvrira en premier.
 
 ---
 
-<sub>Roy fournit de l'information et de l'analyse financières. Roy ne fournit pas de conseil en investissement personnalisé. Investir comporte des risques, dont celui de perte en capital.</sub>
+<sub>Roy fournit de l'information et de l'analyse. Roy ne fournit ni conseil en investissement personnalisé, ni audit, ni certification des comptes. Les valorisations proposées sont indicatives et reposent sur les hypothèses affichées.</sub>
 
-<p align="center"><em>Roy. Vos marchés, votre patrimoine, votre intelligence. Au même endroit.</em></p>
+<p align="center"><em>Roy. De la cible au comité, un analyste à vos côtés.</em></p>
